@@ -1,40 +1,47 @@
-# Hello, I'm Harsh Chopra
+# Harsh Chopra
 
-Welcome to my GitHub profile! I'm a Computer Science Master's student at the University of Tulsa with a strong background in software engineering. With a passion for coding, I've gained hands-on experience in a variety of technologies and have a particular interest in cybersecurity, network theory, and bioinformatics. I enjoy sharing my knowledge and passion for computer science with others, and I am always eager to learn new technologies and tools.
+Welcome to my GitHub profile! I'm a passionate software engineer with a strong foundation in both front-end and back-end technologies. My journey in the tech world has been marked by continuous learning and applying my skills to solve real-world problems. Below, you'll find a brief overview of my skills, work experience, and educational background.
 
-Furthermore,
-I have a solid background in full stack development, machine learning, and web development, which I gained from my previous roles.
-## Education
+## 🛠 Skills
 
-- 📚 Pursuing a Master's degree in Computer Science at the University of Tulsa.
+- **Programming Languages**: C#, Java, R, Python, JavaScript, TypeScript
+- **Frontend**: HTML, CSS, Angular 11, Bootstrap, Angular Material, React
+- **Backend**: Node.js, ExpressJS, RestAPIs
+- **Database**: MongoDB, PostgreSQL, MySQL, NoSQL
+- **IoT Interaction**: Node-RED, MING stack (MQTT, InfluxDB, Node-Red, Grafana)
+- **Other**: Figma, OpenAPI, GitHub, Scrum, Data Structures, Object-Oriented Programming, Docker, AWS (EC2), Nginx
 
-## Professional Experience
+## 💼 Work Experience
 
-- 👨‍💻 Software Engineer with experience from April 2022 to July 2023.
-  - Tech Stack: Java, React, Redux, JSF/JSP, REST API, JUnit.
-  - Successfully developed and integrated a Dining module for the frontend.
-  - Worked with Hibernate, Material UI, and Bootstrap.
+### The University of Tulsa - College of Law, Tulsa, OK
+**Graduate Assistant** (March 2023 - Present)
+- Facilitated the law school's achievement of ABA accreditation by organizing and compiling essential documentation.
+- Transitioned to IT support, providing technical assistance and support for adjuncts.
 
-## Master Degree Courses
+### Enovation Controls LLC, Tulsa, OK
+**Software Maintenance Intern** (Jun 2023 - Aug 2023)
+- Increased overall efficiency by 30% through automation of a robotic glue arm using the MING stack.
+- Reduced manufacturing line downtime by 10% and increased efficiency by 5%.
 
-- 📖 **Foundation of Cyber Security**
-  
-- 📖 **Network Theory**
+### Clicklabs Pvt. Ltd., Chandigarh, India
+**Front End Developer** (Jul 2021 - Aug 2022)
+- Led a team of interns, optimizing full-cycle design tasks and achieving a 30% increase in efficiency.
+- Redesigned layouts for 50+ pages, boosting usability by 20%.
 
-- 📖 **Bioinformatics**
-  
-- 📖 Penetration Tesing
+### ARI Simulation, New Delhi, India
+**Software Developer** (May 2020 - Jul 2021)
+- Developed software modules for Cloud Webapp, enhancing compatibility with desktop and mobile OS.
+- Implemented a front-end launchpad for a cloud simulator from scratch.
 
-- 📖 Advanced Algorithm Analysis
+## 🎓 Education
 
-- 📖 Computational Biology
+- **Masters in Computer Engineering**, The University of Tulsa (3.87 GPA) - Graduation Date: May 2024
+- **B.E. Computer Science**, Chitkara University (3.7 GPA) - Graduation Date: Jul 2020
 
+## 📫 How to Reach Me
 
-## Coding Interests
+- **Email**: chopraharshus62@gmail.com
+- **LinkedIn**: [chopra-harsh](https://www.linkedin.com/in/chopra-harsh)
+- **Portfolio**: [harshchopra.me](https://harshchopra.me)
 
-- I enjoy coding in Java,Python, R, React, and solving problems related to network theory.
-
-## How to Reach Me
-
-- 📫 You can contact me at .
--
+Feel free to reach out if you're interested in collaborating on projects or if you have any questions. Thank you for visiting my profile!
