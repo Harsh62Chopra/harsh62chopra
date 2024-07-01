@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 ## 💼 Work Experience
 
 ### The University of Tulsa - College of Law, Tulsa, OK
-**Graduate Assistant** (March 2023 - Present)
+**Graduate Assistant** (March 2023 - May 2024)
 - Facilitated the law school's achievement of ABA accreditation by organizing and compiling essential documentation.
 - Transitioned to IT support, providing technical assistance and support for adjuncts.
 
