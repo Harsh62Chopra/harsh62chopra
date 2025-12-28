@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 ## 💼 Work Experience
 
 ### Lumen Technologies, Location, Tulsa, OK
-**Secure Access Service Edge- Solution Delivery Manager (Consultant via Infosys)** (September 2024 - Present)
+**Secure Access Service Edge - Solution Delivery Manager (Consultant via Infosys)** (September 2024 - Present)
 - 	Lead end-to-end SASE delivery (kickoff, HLD/LLD, data gathering, activation, migration) for multi‑site programs, coordinating NSE, Activation, Logistics, Customer Care, and field technicians to hit a 35‑business‑day per‑site implementation target.
 - 	Own customer cadence and reporting by running recurring status calls, sending weekly updates, managing access to Control Center/Lumen Connect and SASE Manager, and standardizing tracking via EF submissions and Power BI dashboards.
 - 	Deliver measurable outcomes such as completing 8 SASE site activations/migrations for a customer, managing scope changes, and driving successful Day‑2 handoff and post‑migration support through Lumen Connect and STEM tiers.
